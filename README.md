@@ -11,6 +11,11 @@ This is a list of tools, frameworks & examples that you might find useful when s
 
 ## Tools
 
+### [Beak](https://github.com/yonaskolb/Beak)
+
+Beak can take a standard Swift file and then list and run any public global functions in it via a command line interface.
+This is useful for scripting and for make-like files written in Swift. You can replace `make` or `rake` files with code written in Swift!
+
 ### [Marathon](https://github.com/johnsundell/marathon)
 
 Marathon makes it easy to write, run and manage your Swift scripts. Quickly create, edit, run, install & share your scripts, and easily add dependencies to them.
